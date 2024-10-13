@@ -1,0 +1,3 @@
+#OOP-KRSY-NDARU-1102022340086_SSTP0
+
+print("Goodbye, World")
